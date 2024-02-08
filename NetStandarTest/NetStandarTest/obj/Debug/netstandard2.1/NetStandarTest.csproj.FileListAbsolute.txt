@@ -1,0 +1,9 @@
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\bin\Debug\netstandard2.1\NetStandarTest.deps.json
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\bin\Debug\netstandard2.1\NetStandarTest.dll
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\bin\Debug\netstandard2.1\NetStandarTest.pdb
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\obj\Debug\netstandard2.1\NetStandarTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\obj\Debug\netstandard2.1\NetStandarTest.AssemblyInfoInputs.cache
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\obj\Debug\netstandard2.1\NetStandarTest.AssemblyInfo.cs
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\obj\Debug\netstandard2.1\NetStandarTest.csproj.CoreCompileInputs.cache
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\obj\Debug\netstandard2.1\NetStandarTest.dll
+E:\PluralShigt\Jenkins\NetStandarTest\NetStandarTest\NetStandarTest\obj\Debug\netstandard2.1\NetStandarTest.pdb
